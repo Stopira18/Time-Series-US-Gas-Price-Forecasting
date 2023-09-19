@@ -1,5 +1,4 @@
 # Time-Series-US-Gas-Price-Forecasting
-
 This paper show that certain factors causing the rise in gasoline prices discussed by many observers may have been overstated.
 Some would only briefly raise weekly gasoline prices, before fading rather slowly. 
 However, the short-run effects on the overall price would be sizable. 
